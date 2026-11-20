@@ -1,0 +1,8 @@
+# Personal data: never commit
+goodreads_library_export*.csv
+*_results.csv
+*_results.html
+libby_scan_results.*
+
+__pycache__/
+.DS_Store
