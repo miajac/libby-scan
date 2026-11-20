@@ -13,7 +13,10 @@ works with any OverDrive library.
 ## What you get
 
 - A table in your terminal, with books **available now** first and the rest sorted by estimated wait
-- `libby_scan_results.html`: a sortable page you can filter by ebook, audiobook, or available now, with each title linked to its library page (which has an "open in Libby" button)
+- `libby_scan_results.html`: a sortable page you can filter by ebook, audiobook, or available now, with each title linked to its library page (which has an "open in Libby" button). Open this using:
+```bash
+open libby_scan_results.html
+```
 - `libby_scan_results.csv`: the same data for a spreadsheet
 - A list of shelf books your library doesn't carry
 
